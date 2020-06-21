@@ -23,8 +23,8 @@ title: Your awesome title
 email: your-email@example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github: [metadata]
 repository: "kentsyx/kentsyx.github.io"
+github: [metadata]
 twitter_username: jekyllrb
 github_username:  jekyll
 
