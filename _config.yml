@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: "Yunxiao's Site"
-name: "Yunxiao's Site"
+title: "Yunxiao's Homepage"
+name: "Yunxiao's Homepage"
 email: yunxiao.shi@nyu.edu
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kentsyx.github.io"
@@ -45,7 +45,7 @@ minimal_mistakes_skin: "dirt"
 # Setting for author's profile
 author:
   name: "Yunxiao Shi"
-  bio: "MSCS@NYU"
+  bio: "CS Grad@NYU"
   avatar: "/assets/images/headshot.jpg"
   location: "New York, NY"
   email: "yunxiao.shi@nyu.edu"
