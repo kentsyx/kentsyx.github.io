@@ -16,17 +16,17 @@ Publications
 + **Pairwise Attention Encoding for Point Cloud Feature Learning**  
   **Y. Shi**, H. Fang, J. Zhu and Y. Fang.  
   _In Proceedings of $$7^{th}$$ International Conference on 3D Vision (3DV)_, Québec City, Canada, Sep. 16 - 19, 2019.  
-  \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:w2F1G5nTHSAJ:scholar.google.com/&output=citation&scisdr=CgXF0BE7EJr7ntEMk4A:AAGBfm0AAAAAXyYJi4BhNQPNsJSq5QmTRCPN8koxun9S&scisig=AAGBfm0AAAAAXyYJi_Qb5hS5O8gAnPPvamDabTvsGbtz&scisf=4&ct=citation&cd=-1&hl=en)\] \[[Link to Paper](https://ieeexplore.ieee.org/abstract/document/8885569)\]
+  \[[BibTeX](/assets/bibs/shi2019pairwise.txt)\] \[[Link to Paper](https://ieeexplore.ieee.org/abstract/document/8885569)\]
 + **Adaptive $$L_p$$ $$(0<p<1)$$ Regularization: Oracle Property and Applications**  
   **Y. Shi**, X. He, H. Wu, Z. Jin and W. Lu.  
   _In Proceedings of $$24^{th}$$ International Conference on Neural Information Processing (ICONIP)_, Guangzhou, China, Nov. 14 - 18, 2017.  
-  \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:zppXV03j_t8J:scholar.google.com/&output=citation&scisdr=CgXF0BE7EJr7ntECsFE:AAGBfm0AAAAAXyYHqFGoPT7aSERsr-5_4xd_WwgyHru0&scisig=AAGBfm0AAAAAXyYHqPnq6N7npML5WnpA1RAsxBVUCb3X&scisf=4&ct=citation&cd=-1&hl=en)\] \[[Link to Paper](https://link.springer.com/chapter/10.1007/978-3-319-70087-8_2)\]
+  \[[BibTeX](/assets/bibs/shi2017adaptive.txt)\] \[[Link to Paper](https://link.springer.com/chapter/10.1007/978-3-319-70087-8_2)\]
 
 Manuscripts
 + **Self-Supervised Learning of Depth and Ego-motion with Differentiable Bundle Adjustment**  
   **Y. Shi**, J. Zhu, Y. Fang, K. Lien and J. Gu.  
   _arXiv preprint arXiv:1909.13163_, 2019.  
-  \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:HKoXf6x7pwYJ:scholar.google.com/&output=citation&scisdr=CgXF0BE7EJr7ntENiSw:AAGBfm0AAAAAXyYIkSx0QMVxidWKE9s8bsLeZtg8eCmk&scisig=AAGBfm0AAAAAXyYIkUh3CVP2atoxdlRMJ7ZrUbD7ipzL&scisf=4&ct=citation&cd=-1&hl=en)\] \[[Link to Paper](https://arxiv.org/abs/1909.13163)\]
+  \[[BibTeX](/assets/bibs/shi2019self.txt)\] \[[Link to Paper](https://arxiv.org/abs/1909.13163)\]
 
 ## Software Packages
 + **Neural IMage Assessment**   
