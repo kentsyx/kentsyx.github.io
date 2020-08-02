@@ -5,7 +5,7 @@ classes: wide
 --- 
 I am a graduate student in the [Department of Computer Science and Engineering at New York University](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering). My research interest lies in machine vision and machine learning. In the past I have been developing new methods to better predict scene depth and camera motion in visual SLAM systems. I am currently working as machine learning intern at [Blue River Technology](http://www.bluerivertechnology.com/).
 
-Before coming to New York I did my bachelor and master in mathematics at [Fudan University](https://www.fudan.edu.cn/en/) where I did research on nonconvex penalty for sparse regression problems. I am also interested in the application of statistics and machine learning in the financial industry.
+Before coming to New York I did my bachelor and master in mathematics at [Fudan University](https://www.fudan.edu.cn/en/) where I conducted research on nonconvex penalty for sparse regression problems. I am also interested in the application of statistics and machine learning in the financial industry.
 
 ## Research  
 Publications
