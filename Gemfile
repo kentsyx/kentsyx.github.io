@@ -13,6 +13,7 @@ gem "jekyll-remote-theme"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
 gem "jekyll-paginate"
+gem "jekyll-sitemap"
 
 # github pages plugins
 gem "github-pages", group: :jekyll_plugins

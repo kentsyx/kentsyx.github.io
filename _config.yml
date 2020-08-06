@@ -34,6 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
