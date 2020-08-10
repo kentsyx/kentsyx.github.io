@@ -14,6 +14,7 @@ gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
+gem "kramdown", ">=2.3.0"
 
 # github pages plugins
 gem "github-pages", group: :jekyll_plugins
