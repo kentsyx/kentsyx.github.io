@@ -11,7 +11,7 @@ Before coming to New York I did my bachelor and master in [mathematics at Fudan 
 Publications
 + **MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation**  
   J. Zhu, **Y. Shi**, M. Ren and Y. Fang.  
-  _$$\textit{31}^{st}$$ British Machine Vision Conference (BMVC)_, Manchester, United Kingdom, Sep. 7 - 11, 2020.  
+  _$$\textit{31}^{st}$$ British Machine Vision Conference (BMVC)_, Manchester, United Kingdom, Sep. 7 - 10, 2020.  
   [BibTeX] [Link to Proceedings]
 + **Pairwise Attention Encoding for Point Cloud Feature Learning**  
   **Y. Shi**, H. Fang, J. Zhu and Y. Fang.  
@@ -31,4 +31,4 @@ Manuscripts
 ## Software Packages
 + **Neural IMage Assessment**   
   A _no-reference, single-image_ quality assessment engine that outputs scores by learning an empirical distribution from professional photographers ratings. Allows users to filter out bad photos mimicking human perception.  
-  \[[Link to GitHub](https://github.com/kentsyx/Neural-IMage-Assessment)\]
+  \[[GitHub](https://github.com/kentsyx/Neural-IMage-Assessment)\]
